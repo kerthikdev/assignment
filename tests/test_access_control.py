@@ -8,7 +8,7 @@ Write tests here proving:
 Use the `property_managers`, `properties`, `tenants`, and `screening_reports` fixtures from
 conftest.py — don't re-invent the seed data here.
 """
-from app.access_control import can_access_screening_report
+# from app.access_control import can_access_screening_report
 
 from app.access_control import can_access_screening_report
 
